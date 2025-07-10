@@ -305,8 +305,8 @@ The loss (categorical_crossentropy) to this PanNuke/test was not so low and dice
 was relatively high as shown below.
 <br>
 <pre>
-categorical_crossentropy,0.1973
-dice_coef_multiclass,0.9033
+categorical_crossentropy,0.2374
+dice_coef_multiclass,0.9072
 </pre>
 <br>
 
