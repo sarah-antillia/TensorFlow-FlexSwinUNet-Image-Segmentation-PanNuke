@@ -1,4 +1,4 @@
-<h2>TensorFlow-FlexSwinUNet-Image-Segmentation-Model (2025/07/10)</h2>
+<h2>TensorFlow-FlexSwinUNet-Image-Segmentation-PanNuke (2025/07/10)</h2>
 <
 This is the first experiment of Image Segmentation for PanNuke 
  based on 
